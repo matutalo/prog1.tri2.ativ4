@@ -1,1 +1,3 @@
-# prog1.tri3.ativ1
+## Farmou aura ou não?
+
+Diga se a pessoa farmou aura ou não no IFC.
